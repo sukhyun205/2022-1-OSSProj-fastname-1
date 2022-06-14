@@ -1,5 +1,21 @@
 [
 	{
+		"title": "프론트엔드 초급,기초 스터디 모집합니다. (재모집)",
+		"uploaded": "2022. 06. 14",
+		"link": "https://www.inflearn.com/studies/564227",
+		"bigtag": [
+			"웹"
+		]
+	},
+	{
+		"title": "[사이드] 같이 프로젝트 만들어나갈 프론트엔드 개발자를 모집합니다!!",
+		"uploaded": "2022. 06. 14",
+		"link": "https://www.inflearn.com/studies/564180",
+		"bigtag": [
+			"웹"
+		]
+	},
+	{
 		"title": "신입 개발자 스터디 모집",
 		"uploaded": "2022. 06. 14",
 		"link": "https://www.inflearn.com/studies/563648",
@@ -27,14 +43,6 @@
 		"title": "[역삼역] 프론트엔드 스터디",
 		"uploaded": "2022. 06. 13",
 		"link": "https://www.inflearn.com/studies/562954",
-		"bigtag": [
-			"웹"
-		]
-	},
-	{
-		"title": "프론트엔드 초급 같이 스터디 하실 분 구합니다.",
-		"uploaded": "2022. 06. 13",
-		"link": "https://www.inflearn.com/studies/562661",
 		"bigtag": [
 			"웹"
 		]
@@ -160,14 +168,6 @@
 		]
 	},
 	{
-		"title": "[사이드] 같이 프로젝트를 만들어나갈 프론트 엔드 개발자를 모집합니다!",
-		"uploaded": "2022. 06. 03",
-		"link": "https://www.inflearn.com/studies/554093",
-		"bigtag": [
-			"웹"
-		]
-	},
-	{
 		"title": "지속적으로 토이프로젝트를 진행하실 프론트엔드분 모집합니다.",
 		"uploaded": "2022. 06. 02",
 		"link": "https://www.inflearn.com/studies/553620",
@@ -273,7 +273,7 @@
 	},
 	{
 		"title": "까치산역 카페 각코딩 ( 매주 토요일 9 ~ 12 )",
-		"uploaded": "2022. 05. 22",
+		"uploaded": "2022. 05. 21",
 		"link": "https://www.inflearn.com/studies/542581",
 		"bigtag": [
 			"기타"
