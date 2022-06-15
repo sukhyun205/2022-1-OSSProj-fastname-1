@@ -1,9 +1,7 @@
-# 프로젝트 제목: 동국대생을 위한 정보전달 웹사이트 '융알이'
+# タイトル：大学生のためのIT情報提供ウェブサイト
 
 
-
-# 프로젝트 내용:
-### 프로젝트 개요
+## 프로젝트 개요
 <p align='center'>
 <img src="https://user-images.githubusercontent.com/101690336/173097715-4a85d96a-c3ea-4734-a859-136ec1f681de.png">
 </p>
